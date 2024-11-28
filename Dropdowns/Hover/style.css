@@ -1,0 +1,479 @@
+/* Dropdown Hover 1 Css */
+/* Dropdown Hover 1 Css */
+/* Dropdown Hover 1 Css */
+/* Dropdown Hover 1 Css */
+
+.dropbtnHover1 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover1:hover,
+.dropbtnHover1:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover1 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover1 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover1 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover1 a:hover {
+  background-color: #ddd;
+}
+
+.showHover1 {
+  display: block;
+}
+
+/* Dropdown Hover 2 Css */
+/* Dropdown Hover 2 Css */
+/* Dropdown Hover 2 Css */
+/* Dropdown Hover 2 Css */
+
+.dropbtnHover2 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover2:hover,
+.dropbtnHover2:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover2 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover2 a:hover {
+  background-color: #ddd;
+}
+
+.showHover2 {
+  display: block;
+}
+
+/* Dropdown Hover 3 Css */
+/* Dropdown Hover 3 Css */
+/* Dropdown Hover 3 Css */
+/* Dropdown Hover 3 Css */
+
+.dropbtnHover3 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover3:hover,
+.dropbtnHover3:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover3 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover3 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover3 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover3 a:hover {
+  background-color: #ddd;
+}
+
+.showHover3 {
+  display: block;
+}
+
+/* Dropdown Hover 4 Css */
+/* Dropdown Hover 4 Css */
+/* Dropdown Hover 4 Css */
+/* Dropdown Hover 4 Css */
+
+.dropbtnHover4 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover4:hover,
+.dropbtnHover4:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover4 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover4 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover4 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover4 a:hover {
+  background-color: #ddd;
+}
+
+.showHover4 {
+  display: block;
+}
+
+/* Dropdown Hover 5 Css */
+/* Dropdown Hover 5 Css */
+/* Dropdown Hover 5 Css */
+/* Dropdown Hover 5 Css */
+
+.dropbtnHover5 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover5:hover,
+.dropbtnHover5:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover5 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover5 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover5 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover5 a:hover {
+  background-color: #ddd;
+}
+
+.showHover5 {
+  display: block;
+}
+
+/* Dropdown Hover 6 Css */
+/* Dropdown Hover 6 Css */
+/* Dropdown Hover 6 Css */
+/* Dropdown Hover 6 Css */
+
+.dropbtnHover6 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover6:hover,
+.dropbtnHover6:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover6 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover6 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover6 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover6 a:hover {
+  background-color: #ddd;
+}
+
+.showHover6 {
+  display: block;
+}
+
+/* Dropdown Hover 7 Css */
+/* Dropdown Hover 7 Css */
+/* Dropdown Hover 7 Css */
+/* Dropdown Hover 7 Css */
+
+.dropbtnHover7 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover7:hover,
+.dropbtnHover7:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover7 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover7 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover7 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover7 a:hover {
+  background-color: #ddd;
+}
+
+.showHover7 {
+  display: block;
+}
+
+/* Dropdown Hover 8 Css */
+/* Dropdown Hover 8 Css */
+/* Dropdown Hover 8 Css */
+/* Dropdown Hover 8 Css */
+
+.dropbtnHover8 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover8:hover,
+.dropbtnHover8:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover8 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover8 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover8 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover8 a:hover {
+  background-color: #ddd;
+}
+
+.showHover8 {
+  display: block;
+}
+
+/* Dropdown Hover 9 Css */
+/* Dropdown Hover 9 Css */
+/* Dropdown Hover 9 Css */
+/* Dropdown Hover 9 Css */
+
+.dropbtnHover9 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover9:hover,
+.dropbtnHover9:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover9 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover9 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover9 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover9 a:hover {
+  background-color: #ddd;
+}
+
+.showHover9 {
+  display: block;
+}
+
+/* Dropdown Hover 10 Css */
+/* Dropdown Hover 10 Css */
+/* Dropdown Hover 10 Css */
+/* Dropdown Hover 10 Css */
+
+.dropbtnHover10 {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtnHover10:hover,
+.dropbtnHover10:focus {
+  background-color: #2980b9;
+}
+
+.dropdownHover10 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-contentHover10 {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-contentHover10 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-contentHover10 a:hover {
+  background-color: #ddd;
+}
+
+.showHover10 {
+  display: block;
+}
