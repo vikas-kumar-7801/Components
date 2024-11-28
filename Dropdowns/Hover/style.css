@@ -10,6 +10,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover1:hover,
@@ -58,6 +62,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover2:hover,
@@ -106,6 +114,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover3:hover,
@@ -154,6 +166,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover4:hover,
@@ -202,6 +218,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover5:hover,
@@ -250,6 +270,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover6:hover,
@@ -298,6 +322,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover7:hover,
@@ -346,6 +374,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover8:hover,
@@ -394,6 +426,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover9:hover,
@@ -442,6 +478,10 @@
   font-size: 16px;
   border: none;
   cursor: pointer;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropbtnHover10:hover,
